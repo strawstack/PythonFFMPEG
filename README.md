@@ -8,9 +8,11 @@ Example code for triming, croping, and transcoding a video file.
 
 # Video Example
 
+View the input and output video used by [the script](https://github.com/strawstack/PythonFFMPEG/blob/main/ff.py) in this repo.
+
 - [Input](https://youtu.be/Wv5DankloVA)
 
-- [Output]()
+- [Output](https://youtu.be/9IHokEcKAug)
 
 # Notes
 
