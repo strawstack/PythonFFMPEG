@@ -2,6 +2,10 @@
 
 Example code for triming, croping, and transcoding a video file.
 
+# Overview
+
+ffmpeg is a video manipulation lib written in C or something designed for use in the terminal. Python has a wrapper for ffmpeg called `ffmpeg-python` (see Notes below). The code in [ff.py](https://github.com/strawstack/PythonFFMPEG/blob/main/ff.py) takes `in.mkv` as input. The video file is `trimmed` and `cropped` by the script. The output video file is `out.mkv`. `ff_format.py` takes `out.mkv` as input and generates `out.mp4`. Finally, we use `ff_scale.py` to scale `out.mp4` to the output `out_1920.mp4`.
+
 # Determine Crop Ratio
 
 [Figma File](https://www.figma.com/file/iAWUjaWzykgCmwCilOJ7CK/ffmpeg_crop?node-id=0%3A1&t=gz9Lup8XCFjOjlms-1)
