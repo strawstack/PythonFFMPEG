@@ -14,10 +14,10 @@ end_sec   = 74
 stream = ffmpeg.trim(stream, start_frame=start_sec * fps, end_frame=end_sec * fps)
 
 # Crop
-x      = 98
-y      = 135
-width  = 1082
-height = 612
+x      = 175
+y      = 189
+width  = 960
+height = 540
 stream = ffmpeg.crop(stream, x, y, width, height)
 
 stream = ffmpeg.output(stream, 'out.mkv')
