@@ -10,9 +10,11 @@ Example code for triming, croping, and transcoding a video file.
 
 View the input video used by [the script](https://github.com/strawstack/PythonFFMPEG/blob/main/ff.py) in this repo, and output video that the script generates.
 
-- [Input](https://youtu.be/Wv5DankloVA)
+- [Input Video](https://youtu.be/FrOTCRuQN2M)
 
-- [Output](https://youtu.be/9IHokEcKAug)
+- [Output Video (Cropped and Trimmed)](https://youtu.be/sFIhnM7CqlM)
+
+- [Output Video (Format Conversion, Scaled back to 1920p)](https://youtu.be/pmrBEZupeFk)
 
 # Notes
 
