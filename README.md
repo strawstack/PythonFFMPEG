@@ -2,15 +2,13 @@
 
 Example code for triming, croping, and transcoding a video file.
 
-# Figma File
+# Determine Crop Ratio
 
-Used for determining crop ratio
-
-https://www.figma.com/file/iAWUjaWzykgCmwCilOJ7CK/ffmpeg_crop?node-id=0%3A1&t=gz9Lup8XCFjOjlms-1
+[Figma File](https://www.figma.com/file/iAWUjaWzykgCmwCilOJ7CK/ffmpeg_crop?node-id=0%3A1&t=gz9Lup8XCFjOjlms-1)
 
 # Video Example
 
-- [Input]()
+- [Input](https://youtu.be/Wv5DankloVA)
 
 - [Output]()
 
