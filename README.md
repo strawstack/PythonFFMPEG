@@ -1,4 +1,4 @@
-# ffmpeg Python
+# Python FFMPEG 
 
 Example code for triming, croping, and transcoding a video file.
 
