@@ -25,3 +25,7 @@ View the input video used by [the script](https://github.com/strawstack/PythonFF
 - [ffmpeg Python Docs](https://kkroening.github.io/ffmpeg-python/)
 
 - [Format Conversion](https://askubuntu.com/questions/396883/how-to-simply-convert-video-files-i-e-mkv-to-mp4)
+
+- [Frame By Frame Skip](http://www.inconduit.com/smpte/)
+
+  - [Frame By Frame Code](http://www.inconduit.com/smpte/js/smpte_test_universal.js)
