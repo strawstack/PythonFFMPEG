@@ -4,15 +4,15 @@ Example code for triming, croping, and transcoding a video file.
 
 # TODO
 
-- [] Video element to HTMl page. 
-- [] Add frame skip button.
-- [] Add second widgit that overlays crop rectangle.
-- [] Add "10 frame", 1s, 15s, custom frame, custom time, skip buttons.
-- [] Controls to sent start and end trim times. 
-- [] Export JSON file with edit instructions for Python script.
-- [] Ability to add N number of trim pairs that will remove sections of the video.
+- [ ] Video element to HTMl page. 
+- [ ] Add frame skip button.
+- [ ] Add second widgit that overlays crop rectangle.
+- [ ] Add "10 frame", 1s, 15s, custom frame, custom time, skip buttons.
+- [ ] Controls to sent start and end trim times. 
+- [ ] Export JSON file with edit instructions for Python script.
+- [ ] Ability to add N number of trim pairs that will remove sections of the video.
 
--[] Freeze frame?
+- [ ] Freeze frame?
 
 # Overview
 
